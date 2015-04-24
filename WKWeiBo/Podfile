@@ -1,0 +1,8 @@
+pod 'Toast', '~> 2.4'
+pod 'SDWebImage', '~>3.7'
+pod 'FMDB'
+pod 'IQKeyboardManager'
+pod 'UIView+AutoLayout'
+pod 'Reachability'
+pod "AFNetworking", "~> 2.0"
+pod 'MBProgressHUD'
